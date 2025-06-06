@@ -1,0 +1,3 @@
+Microsoft.MixedReality.MovingPlatform.dll
+openxr_loader.dll
+Microsoft.MixedReality.Input.dll
